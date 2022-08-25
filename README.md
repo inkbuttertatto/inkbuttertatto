@@ -1,16 +1,15 @@
-### Hi there 👋
+![telegram-cloud-photo-size-2-5206534604218025944-y](https://user-images.githubusercontent.com/112122127/186767993-ddc44720-aa41-419b-8d0b-1d9edf358500.jpg)
 
-<!--
-**inkbuttertatto/inkbuttertatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Some facts about me:
+- 🖥 I build outstanding web applications with React and Node.js stack.
 
-Here are some ideas to get you started:
+- 😼Enjoy working with a wide variety of technologies, resolve complex tasks with TypeScript, React, Redux, and Next.js. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😈Design maniac 
+Material UI and Styled Components should be perfect.
+
+### My other strong sides: 
+- 🔥proactive communication skills
+- 🔥great teamwork
+- 🔥independence - take ownership of the project 
+- 🔥ready to take responsibility for complex features and use new approaches to solve challenges.
